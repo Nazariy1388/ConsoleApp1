@@ -77,7 +77,7 @@ namespace ConsoleApp1
                 }
                 else
                 {
-                    Console.WriteLine("Please enter an amount (or a blank line to exit).");
+                    Console.WriteLine("Please enter an amount (or a blank line to exitas;dlfj).");
                 }
             }
 
