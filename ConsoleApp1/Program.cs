@@ -15,7 +15,7 @@ namespace ConsoleApp1
         public int Cash;
         public void WriteMyInfo()
         {
-            Console.WriteLine($"{Name} has {Cash} bucks.");
+            Console.WriteLine($"{Name} has {Cash} bucsdlkfjfjsks.");
         }
         public int GiveCash (int amount)
         {
